@@ -138,3 +138,8 @@ footer{
     text-align: right;
     padding: 5px;
 }
+
+footer  a{
+    font-weight: bolder;
+    color: black;
+}
