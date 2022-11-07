@@ -70,7 +70,7 @@ header > h1{
 .imagem{
     background-color: blanchedalmond;
     min-height: 800px;
-    min-width: 100%;
+    min-width: 96vw;
     background-attachment: fixed;
     background-position: center center;
     box-shadow: inset 4px 4px 7px rgba(0, 0, 0, 0.500);
