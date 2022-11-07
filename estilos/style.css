@@ -35,7 +35,7 @@ nav >a:hover{
 }
 
 header{
-    background-image: url('../imagens/goldem01.jpg');
+    background-image: url('../imagens/goldem01-1080px.jpg');
     background-size: cover;
 }
 
@@ -59,12 +59,12 @@ header > h1{
 }
 
 #img01{
-    background-image: url('../imagens/goldem03.jpg');
+    background-image: url('../imagens/goldem03-1080px.jpg');
     background-size: cover;
 }
 
 #img02{
-    background-image: url('../imagens/goldem04.jpg');
+    background-image: url('../imagens/goldem04-1080px.jpg');
     background-size: cover;
 }
 .imagem{
