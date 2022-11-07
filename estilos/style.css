@@ -69,7 +69,7 @@ header > h1{
 }
 .imagem{
     background-color: blanchedalmond;
-    min-height: 100vh;
+    min-height: 800px;
     min-width: 100%;
     background-attachment: fixed;
     background-position: center center;
